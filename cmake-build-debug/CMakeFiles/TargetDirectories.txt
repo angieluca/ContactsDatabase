@@ -1,0 +1,3 @@
+C:/Users/tenni/CLionProjects/COP3503C Projects/ContactsDatabase/cmake-build-debug/CMakeFiles/ContactsDatabase.dir
+C:/Users/tenni/CLionProjects/COP3503C Projects/ContactsDatabase/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tenni/CLionProjects/COP3503C Projects/ContactsDatabase/cmake-build-debug/CMakeFiles/rebuild_cache.dir
